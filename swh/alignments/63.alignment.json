@@ -1,0 +1,1691 @@
+{
+  "documents": [
+    {
+      "docid": "SBLGNT",
+      "scheme": "BCVWP|token-string"
+    },
+    {
+      "docid": "ONEN",
+      "scheme": "BCVWP|token-string"
+    }
+  ],
+  "meta": {
+    "conformsTo": "0.3",
+    "creator": "Mission Mutual"
+  },
+  "roles": [
+    "source",
+    "target"
+  ],
+  "type": "translation",
+  "records": [
+    {
+      "source": [
+        "n63001001001|Ὁ"
+      ],
+      "target": [
+        "63001001003|Kwa"
+      ],
+      "meta": {
+        "id": "63001001.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001002|πρεσβύτερος"
+      ],
+      "target": [
+        "63001001001|Mzee"
+      ],
+      "meta": {
+        "id": "63001001.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001003|ἐκλεκτῇ"
+      ],
+      "target": [
+        "63001001005|mteule"
+      ],
+      "meta": {
+        "id": "63001001.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001005|καὶ"
+      ],
+      "target": [
+        "63001001006|na"
+      ],
+      "meta": {
+        "id": "63001001.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001007|τέκνοις"
+      ],
+      "target": [
+        "63001001007|watoto"
+      ],
+      "meta": {
+        "id": "63001001.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001008|αὐτῆς"
+      ],
+      "target": [
+        "63001001008|wake"
+      ],
+      "meta": {
+        "id": "63001001.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001010|ἐγὼ"
+      ],
+      "target": [
+        "63001001010|niwapendao"
+      ],
+      "meta": {
+        "id": "63001001.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001012|ἐν"
+      ],
+      "target": [
+        "63001001011|katika"
+      ],
+      "meta": {
+        "id": "63001001.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001013|ἀληθείᾳ"
+      ],
+      "target": [
+        "63001001012|kweli"
+      ],
+      "meta": {
+        "id": "63001001.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001015|οὐ"
+      ],
+      "target": [
+        "63001001015|si"
+      ],
+      "meta": {
+        "id": "63001001.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001016|ἐγὼ"
+      ],
+      "target": [
+        "63001001016|mimi"
+      ],
+      "meta": {
+        "id": "63001001.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001017|μόνος"
+      ],
+      "target": [
+        "63001001022|wote"
+      ],
+      "meta": {
+        "id": "63001001.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001018|ἀλλὰ"
+      ],
+      "target": [
+        "63001001019|bali"
+      ],
+      "meta": {
+        "id": "63001001.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001019|καὶ"
+      ],
+      "target": [
+        "63001001020|na"
+      ],
+      "meta": {
+        "id": "63001001.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001022|ἐγνωκότες"
+      ],
+      "target": [
+        "63001001023|waijuayo"
+      ],
+      "meta": {
+        "id": "63001001.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001001024|ἀλήθειαν"
+      ],
+      "target": [
+        "63001001024|kweli"
+      ],
+      "meta": {
+        "id": "63001001.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002001|διὰ"
+      ],
+      "target": [
+        "63001002001|kwa"
+      ],
+      "meta": {
+        "id": "63001002.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002002|τὴν"
+      ],
+      "target": [
+        "63001002009|na"
+      ],
+      "meta": {
+        "id": "63001002.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002003|ἀλήθειαν"
+      ],
+      "target": [
+        "63001002005|kweli"
+      ],
+      "meta": {
+        "id": "63001002.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002005|μένουσαν"
+      ],
+      "target": [
+        "63001002006|ikaayo"
+      ],
+      "meta": {
+        "id": "63001002.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002006|ἐν"
+      ],
+      "target": [
+        "63001002007|ndani"
+      ],
+      "meta": {
+        "id": "63001002.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002007|ἡμῖν"
+      ],
+      "target": [
+        "63001002008|yetu"
+      ],
+      "meta": {
+        "id": "63001002.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002009|μεθ"
+      ],
+      "target": [
+        "63001002004|ile"
+      ],
+      "meta": {
+        "id": "63001002.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002010|ἡμῶν"
+      ],
+      "target": [
+        "63001002013|nasi"
+      ],
+      "meta": {
+        "id": "63001002.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001002012|εἰς"
+      ],
+      "target": [
+        "63001002014|milele"
+      ],
+      "meta": {
+        "id": "63001002.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003001|ἔσται"
+      ],
+      "target": [
+        "63001003018|itakuwa"
+      ],
+      "meta": {
+        "id": "63001003.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003002|μεθ"
+      ],
+      "target": [
+        "63001003019|pamoja"
+      ],
+      "meta": {
+        "id": "63001003.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003003|ἡμῶν"
+      ],
+      "target": [
+        "63001003020|nasi"
+      ],
+      "meta": {
+        "id": "63001003.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003004|χάρις"
+      ],
+      "target": [
+        "63001003001|Neema"
+      ],
+      "meta": {
+        "id": "63001003.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003005|ἔλεος"
+      ],
+      "target": [
+        "63001003003|rehema"
+      ],
+      "meta": {
+        "id": "63001003.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003006|εἰρήνη"
+      ],
+      "target": [
+        "63001003005|amani"
+      ],
+      "meta": {
+        "id": "63001003.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003007|παρὰ"
+      ],
+      "target": [
+        "63001003007|kwa"
+      ],
+      "meta": {
+        "id": "63001003.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003008|θεοῦ"
+      ],
+      "target": [
+        "63001003008|Mungu"
+      ],
+      "meta": {
+        "id": "63001003.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003009|πατρός"
+      ],
+      "target": [
+        "63001003009|Baba"
+      ],
+      "meta": {
+        "id": "63001003.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003010|καὶ"
+      ],
+      "target": [
+        "63001003004|na"
+      ],
+      "meta": {
+        "id": "63001003.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003011|παρὰ"
+      ],
+      "target": [
+        "63001003011|kwa"
+      ],
+      "meta": {
+        "id": "63001003.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003012|Ἰησοῦ"
+      ],
+      "target": [
+        "63001003012|Yesu"
+      ],
+      "meta": {
+        "id": "63001003.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003013|Χριστοῦ"
+      ],
+      "target": [
+        "63001003013|Kristo"
+      ],
+      "meta": {
+        "id": "63001003.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003015|υἱοῦ"
+      ],
+      "target": [
+        "63001003015|Mwanawe"
+      ],
+      "meta": {
+        "id": "63001003.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003017|πατρός"
+      ],
+      "target": [
+        "63001003016|Baba"
+      ],
+      "meta": {
+        "id": "63001003.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003018|ἐν"
+      ],
+      "target": [
+        "63001003021|katika"
+      ],
+      "meta": {
+        "id": "63001003.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003019|ἀληθείᾳ"
+      ],
+      "target": [
+        "63001003022|kweli"
+      ],
+      "meta": {
+        "id": "63001003.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003020|καὶ"
+      ],
+      "target": [
+        "63001003023|na"
+      ],
+      "meta": {
+        "id": "63001003.18",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001003021|ἀγάπῃ"
+      ],
+      "target": [
+        "63001003024|upendo"
+      ],
+      "meta": {
+        "id": "63001003.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004001|Ἐχάρην"
+      ],
+      "target": [
+        "63001004002|furaha"
+      ],
+      "meta": {
+        "id": "63001004.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004003|ὅτι"
+      ],
+      "target": [
+        "63001004010|katika"
+      ],
+      "meta": {
+        "id": "63001004.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004004|εὕρηκα"
+      ],
+      "target": [
+        "63001004004|kuona"
+      ],
+      "meta": {
+        "id": "63001004.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004005|ἐκ"
+      ],
+      "target": [
+        "63001004005|baadhi"
+      ],
+      "meta": {
+        "id": "63001004.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004007|τέκνων"
+      ],
+      "target": [
+        "63001004007|watoto"
+      ],
+      "meta": {
+        "id": "63001004.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004008|σου"
+      ],
+      "target": [
+        "63001004008|wako"
+      ],
+      "meta": {
+        "id": "63001004.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004009|περιπατοῦντας"
+      ],
+      "target": [
+        "63001004009|wanaenenda"
+      ],
+      "meta": {
+        "id": "63001004.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004011|ἀληθείᾳ"
+      ],
+      "target": [
+        "63001004011|kweli"
+      ],
+      "meta": {
+        "id": "63001004.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004012|καθὼς"
+      ],
+      "target": [
+        "63001004013|kama"
+      ],
+      "meta": {
+        "id": "63001004.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001004017|πατρός"
+      ],
+      "target": [
+        "63001004015|Baba"
+      ],
+      "meta": {
+        "id": "63001004.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005001|καὶ"
+      ],
+      "target": [
+        "63001005006|si"
+      ],
+      "meta": {
+        "id": "63001005.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005002|νῦν"
+      ],
+      "target": [
+        "63001005001|Sasa"
+      ],
+      "meta": {
+        "id": "63001005.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005007|ὡς"
+      ],
+      "target": [
+        "63001005007|kwamba"
+      ],
+      "meta": {
+        "id": "63001005.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005008|ἐντολὴν"
+      ],
+      "target": [
+        "63001005009|amri"
+      ],
+      "meta": {
+        "id": "63001005.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005009|καινὴν"
+      ],
+      "target": [
+        "63001005010|mpya"
+      ],
+      "meta": {
+        "id": "63001005.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005012|ἀλλὰ"
+      ],
+      "target": [
+        "63001005012|bali"
+      ],
+      "meta": {
+        "id": "63001005.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005013|ἣν"
+      ],
+      "target": [
+        "63001005014|tuliyokuwa"
+      ],
+      "meta": {
+        "id": "63001005.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005015|ἀπ"
+      ],
+      "target": [
+        "63001005016|tangu"
+      ],
+      "meta": {
+        "id": "63001005.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001005016|ἀρχῆς"
+      ],
+      "target": [
+        "63001005017|mwanzo"
+      ],
+      "meta": {
+        "id": "63001005.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006003|ἐστὶν"
+      ],
+      "target": [
+        "63001006002|ndilo"
+      ],
+      "meta": {
+        "id": "63001006.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006005|ἀγάπη"
+      ],
+      "target": [
+        "63001006025|upendo"
+      ],
+      "meta": {
+        "id": "63001006.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006006|ἵνα"
+      ],
+      "target": [
+        "63001006005|kwamba"
+      ],
+      "meta": {
+        "id": "63001006.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006007|περιπατῶμεν"
+      ],
+      "target": [
+        "63001006006|tuenende"
+      ],
+      "meta": {
+        "id": "63001006.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006008|κατὰ"
+      ],
+      "target": [
+        "63001006008|na"
+      ],
+      "meta": {
+        "id": "63001006.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006010|ἐντολὰς"
+      ],
+      "target": [
+        "63001006009|amri"
+      ],
+      "meta": {
+        "id": "63001006.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006011|αὐτοῦ"
+      ],
+      "target": [
+        "63001006010|zake"
+      ],
+      "meta": {
+        "id": "63001006.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006012|αὕτη"
+      ],
+      "target": [
+        "63001006012|Hii"
+      ],
+      "meta": {
+        "id": "63001006.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006014|ἐντολή"
+      ],
+      "target": [
+        "63001006014|amri"
+      ],
+      "meta": {
+        "id": "63001006.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006015|ἐστιν"
+      ],
+      "target": [
+        "63001006013|ndiyo"
+      ],
+      "meta": {
+        "id": "63001006.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006016|καθὼς"
+      ],
+      "target": [
+        "63001006016|kama"
+      ],
+      "meta": {
+        "id": "63001006.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006017|ἠκούσατε"
+      ],
+      "target": [
+        "63001006018|mlivyosikia"
+      ],
+      "meta": {
+        "id": "63001006.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006018|ἀπ"
+      ],
+      "target": [
+        "63001006019|tangu"
+      ],
+      "meta": {
+        "id": "63001006.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006019|ἀρχῆς"
+      ],
+      "target": [
+        "63001006020|mwanzo"
+      ],
+      "meta": {
+        "id": "63001006.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006021|ἐν"
+      ],
+      "target": [
+        "63001006024|katika"
+      ],
+      "meta": {
+        "id": "63001006.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001006023|περιπατῆτε"
+      ],
+      "target": [
+        "63001006023|mwenende"
+      ],
+      "meta": {
+        "id": "63001006.17",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007002|πολλοὶ"
+      ],
+      "target": [
+        "63001007002|wengi"
+      ],
+      "meta": {
+        "id": "63001007.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007003|πλάνοι"
+      ],
+      "target": [
+        "63001007001|Wadanganyifu"
+      ],
+      "meta": {
+        "id": "63001007.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007005|εἰς"
+      ],
+      "target": [
+        "63001007009|katika"
+      ],
+      "meta": {
+        "id": "63001007.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007006|τὸν"
+      ],
+      "target": [
+        "63001007021|na"
+      ],
+      "meta": {
+        "id": "63001007.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007009|μὴ"
+      ],
+      "target": [
+        "63001007019|ni"
+      ],
+      "meta": {
+        "id": "63001007.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007011|Ἰησοῦν"
+      ],
+      "target": [
+        "63001007006|Yesu"
+      ],
+      "meta": {
+        "id": "63001007.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007012|Χριστὸν"
+      ],
+      "target": [
+        "63001007007|Kristo"
+      ],
+      "meta": {
+        "id": "63001007.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007013|ἐρχόμενον"
+      ],
+      "target": [
+        "63001007008|amekuja"
+      ],
+      "meta": {
+        "id": "63001007.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007015|σαρκί"
+      ],
+      "target": [
+        "63001007010|mwili"
+      ],
+      "meta": {
+        "id": "63001007.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007019|πλάνος"
+      ],
+      "target": [
+        "63001007020|mdanganyifu"
+      ],
+      "meta": {
+        "id": "63001007.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001007022|ἀντίχριστος"
+      ],
+      "target": [
+        "63001007022|mpinga"
+      ],
+      "meta": {
+        "id": "63001007.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001008005|ἀπολέσητε"
+      ],
+      "target": [
+        "63001008003|mkapoteza"
+      ],
+      "meta": {
+        "id": "63001008.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001008008|ἀλλὰ"
+      ],
+      "target": [
+        "63001008007|bali"
+      ],
+      "meta": {
+        "id": "63001008.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001008009|μισθὸν"
+      ],
+      "target": [
+        "63001008010|thawabu"
+      ],
+      "meta": {
+        "id": "63001008.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009001|πᾶς"
+      ],
+      "target": [
+        "63001009002|yeyote"
+      ],
+      "meta": {
+        "id": "63001009.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009007|ἐν"
+      ],
+      "target": [
+        "63001009004|katika"
+      ],
+      "meta": {
+        "id": "63001009.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009009|διδαχῇ"
+      ],
+      "target": [
+        "63001009005|mafundisho"
+      ],
+      "meta": {
+        "id": "63001009.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009010|τοῦ"
+      ],
+      "target": [
+        "63001009006|ya"
+      ],
+      "meta": {
+        "id": "63001009.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009011|Χριστοῦ"
+      ],
+      "target": [
+        "63001009007|Kristo"
+      ],
+      "meta": {
+        "id": "63001009.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009012|θεὸν"
+      ],
+      "target": [
+        "63001009014|Mungu"
+      ],
+      "meta": {
+        "id": "63001009.6",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009013|οὐ"
+      ],
+      "target": [
+        "63001009013|hana"
+      ],
+      "meta": {
+        "id": "63001009.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009017|ἐν"
+      ],
+      "target": [
+        "63001009018|katika"
+      ],
+      "meta": {
+        "id": "63001009.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009019|διδαχῇ"
+      ],
+      "target": [
+        "63001009019|mafundisho"
+      ],
+      "meta": {
+        "id": "63001009.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009023|πατέρα"
+      ],
+      "target": [
+        "63001009021|Baba"
+      ],
+      "meta": {
+        "id": "63001009.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009024|καὶ"
+      ],
+      "target": [
+        "63001009022|na"
+      ],
+      "meta": {
+        "id": "63001009.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009026|υἱὸν"
+      ],
+      "target": [
+        "63001009023|Mwana"
+      ],
+      "meta": {
+        "id": "63001009.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001009027|ἔχει"
+      ],
+      "target": [
+        "63001009020|ana"
+      ],
+      "meta": {
+        "id": "63001009.14",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010002|τις"
+      ],
+      "target": [
+        "63001010002|mtu"
+      ],
+      "meta": {
+        "id": "63001010.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010007|ταύτην"
+      ],
+      "target": [
+        "63001010008|haya"
+      ],
+      "meta": {
+        "id": "63001010.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010009|διδαχὴν"
+      ],
+      "target": [
+        "63001010007|mafundisho"
+      ],
+      "meta": {
+        "id": "63001010.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010010|οὐ"
+      ],
+      "target": [
+        "63001010010|wala"
+      ],
+      "meta": {
+        "id": "63001010.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010012|μὴ"
+      ],
+      "target": [
+        "63001010011|msimkaribishe"
+      ],
+      "meta": {
+        "id": "63001010.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001010015|εἰς"
+      ],
+      "target": [
+        "63001010012|nyumbani"
+      ],
+      "meta": {
+        "id": "63001010.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001011005|χαίρειν"
+      ],
+      "target": [
+        "63001011002|amkaribishaye"
+      ],
+      "meta": {
+        "id": "63001011.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001011006|κοινωνεῖ"
+      ],
+      "target": [
+        "63001011007|anashiriki"
+      ],
+      "meta": {
+        "id": "63001011.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001011008|ἔργοις"
+      ],
+      "target": [
+        "63001011009|matendo"
+      ],
+      "meta": {
+        "id": "63001011.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001011009|αὐτοῦ"
+      ],
+      "target": [
+        "63001011013|huyo"
+      ],
+      "meta": {
+        "id": "63001011.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012001|Πολλὰ"
+      ],
+      "target": [
+        "63001012002|mengi"
+      ],
+      "meta": {
+        "id": "63001012.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012002|ἔχων"
+      ],
+      "target": [
+        "63001012001|Ninayo"
+      ],
+      "meta": {
+        "id": "63001012.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012004|γράφειν"
+      ],
+      "target": [
+        "63001012004|kuwaandikia"
+      ],
+      "meta": {
+        "id": "63001012.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012005|οὐ"
+      ],
+      "target": [
+        "63001012007|sitaki"
+      ],
+      "meta": {
+        "id": "63001012.5",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012008|χάρτου"
+      ],
+      "target": [
+        "63001012009|karatasi"
+      ],
+      "meta": {
+        "id": "63001012.7",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012009|καὶ"
+      ],
+      "target": [
+        "63001012010|na"
+      ],
+      "meta": {
+        "id": "63001012.8",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012010|μέλανος"
+      ],
+      "target": [
+        "63001012011|wino"
+      ],
+      "meta": {
+        "id": "63001012.9",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012011|ἀλλὰ"
+      ],
+      "target": [
+        "63001012013|Badala"
+      ],
+      "meta": {
+        "id": "63001012.10",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012012|ἐλπίζω"
+      ],
+      "target": [
+        "63001012016|nataraji"
+      ],
+      "meta": {
+        "id": "63001012.11",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012013|γενέσθαι"
+      ],
+      "target": [
+        "63001012017|kuja"
+      ],
+      "meta": {
+        "id": "63001012.12",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012014|πρὸς"
+      ],
+      "target": [
+        "63001012018|kwenu"
+      ],
+      "meta": {
+        "id": "63001012.13",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012016|καὶ"
+      ],
+      "target": [
+        "63001012019|na"
+      ],
+      "meta": {
+        "id": "63001012.15",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012017|στόμα"
+      ],
+      "target": [
+        "63001012023|kwa"
+      ],
+      "meta": {
+        "id": "63001012.16",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012020|λαλῆσαι"
+      ],
+      "target": [
+        "63001012020|kuongea"
+      ],
+      "meta": {
+        "id": "63001012.19",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012021|ἵνα"
+      ],
+      "target": [
+        "63001012026|ili"
+      ],
+      "meta": {
+        "id": "63001012.20",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012023|χαρὰ"
+      ],
+      "target": [
+        "63001012027|furaha"
+      ],
+      "meta": {
+        "id": "63001012.21",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012024|ὑμῶν"
+      ],
+      "target": [
+        "63001012028|yetu"
+      ],
+      "meta": {
+        "id": "63001012.22",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001012026|ᾖ"
+      ],
+      "target": [
+        "63001012030|kuwa"
+      ],
+      "meta": {
+        "id": "63001012.23",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001013004|τέκνα"
+      ],
+      "target": [
+        "63001013001|Watoto"
+      ],
+      "meta": {
+        "id": "63001013.1",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001013005|τῆς"
+      ],
+      "target": [
+        "63001013002|wa"
+      ],
+      "meta": {
+        "id": "63001013.2",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001013006|ἀδελφῆς"
+      ],
+      "target": [
+        "63001013003|dada"
+      ],
+      "meta": {
+        "id": "63001013.3",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001013007|σου"
+      ],
+      "target": [
+        "63001013004|yako"
+      ],
+      "meta": {
+        "id": "63001013.4",
+        "origin": "manual"
+      }
+    },
+    {
+      "source": [
+        "n63001013009|ἐκλεκτῆς"
+      ],
+      "target": [
+        "63001013005|mteule"
+      ],
+      "meta": {
+        "id": "63001013.5",
+        "origin": "manual"
+      }
+    }
+  ]
+}
